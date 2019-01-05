@@ -1,5 +1,5 @@
 # tsnode-prototype
-Typescript projects on node - first configuration:
+Typescript projects on node/vscode - first configuration:
 
 1. npm init -y
 2. mkdir lib; mkdir src;
