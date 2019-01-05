@@ -1,5 +1,5 @@
 # tsnode-prototype
-Skeleton project for typescript projects on node
+Skeleton for typescript projects on node
 
 1. npm init -y
 2. mkdir lib; mkdir src;
