@@ -1,5 +1,5 @@
 # tsnode-prototype
-Skeleton project for typescript projects on node
+Typescript project on node/vscode - first configuration:
 
 1. npm init -y
 2. mkdir lib; mkdir src;
@@ -16,5 +16,5 @@ Skeleton project for typescript projects on node
 "build:live": "nodemon --watch 'src/**/*.ts' --exec 'ts-node' src/index.ts"
 }
 ```
-
-8. run npm start
+# Run
+1. npm start
